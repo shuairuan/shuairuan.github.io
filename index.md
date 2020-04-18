@@ -5,13 +5,13 @@ All files are saved to [Site repository](https://github.com/shuairuan/shuairuan.
 Probably couple of gigabyte. If you have a slow internet connection. Please send an [email](mailto:frank_ruan@outlook.com) to owner of studio, and get the file. Otherwize, you probably need to download forever to get the one hundreds or kilobytes file....
 
 Here is the way to clone our entire repository:
-``shell
+``
 cd ~
 git clone https://github.com/shuairuan/shuairuan.github.io
 mv shuairuan.github.io osite
 ``
 If you have a ssh key and registered to github:
-``shell
+``
 cd ~
 git clone git@github.com:shuairuan/shuairuan.github.io.git
 mv shuairuan.github.io osite
