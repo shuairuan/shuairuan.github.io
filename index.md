@@ -4,18 +4,7 @@ __To be clear, we are a studio, just make softwares and play games!__
 All files are saved to [Site repository](https://github.com/shuairuan/shuairuan.github.io), but you need to clone them entirely and checkout branch.
 Probably couple of gigabyte. If you have a slow internet connection. Please send an [email](mailto:frank_ruan@outlook.com) to owner of studio, and get the file. Otherwize, you probably need to download forever to get the one hundreds or kilobytes file....
 
-Here is the way to clone our entire repository:
-``
-cd ~
-git clone https://github.com/shuairuan/shuairuan.github.io
-mv shuairuan.github.io osite
-``
-If you have a ssh key and registered to github:
-``
-cd ~
-git clone git@github.com:shuairuan/shuairuan.github.io.git
-mv shuairuan.github.io osite
-``
+We will keep update!
 
 Best wishes,
 Frank Ruan.
