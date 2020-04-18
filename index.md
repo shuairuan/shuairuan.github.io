@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to official site of shuairuan corporation!
+__To be clear, we are a studio, just make softwares and play games!__
 
-You can use the [editor on GitHub](https://github.com/shuairuan/shuairuan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+All files are saved to [Site repository](https://github.com/shuairuan/shuairuan.github.io), but you need to clone them entirely and checkout branch.
+Probably couple of gigabyte. If you have a slow internet connection. Please send an [email](mailto:frank_ruan@outlook.com) to owner of studio, and get the file. Otherwize, you probably need to download forever to get the one hundreds or kilobytes file....
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here is the way to clone our entire repository:
+`
+cd ~
+git clone https://github.com/shuairuan/shuairuan.github.io
+mv shuairuan.github.io osite
+`
+If you have a ssh key and registered to github:
+`
+cd ~
+git clone git@github.com:shuairuan/shuairuan.github.io.git
+mv shuairuan.github.io osite
+`
 
-### Markdown
+Best wishes,
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Frank Ruan.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shuairuan/shuairuan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Business operation.
